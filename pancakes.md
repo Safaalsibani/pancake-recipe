@@ -1,1 +1,6 @@
-"# Grandma's pancake recipe" 
+"# Grandma's pancake recipe"
+
+-eggs
+
+-milk
+
